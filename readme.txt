@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 change this file.
 
-7.3  keep going
+7.3  learn $ git stash
